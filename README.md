@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🐘 I explore if the application can run under high load.  
-🕑 I also develop `java` apps to make life easier for testers.  
+🕑 I also develop `java` utilities to make life easier for testers.  
 📫 You can reach me out on [linkedin](https://www.linkedin.com/in/sergei-sukhorukov-192697233/)  
 
 <!--
