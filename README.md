@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🐘 I explore how well applications runs under high load.  
+🐘 I explore how well applications perform under high load.  
 🕑 I also develop `java` utilities to make testing easier and less boring.  
 📫 You can reach me out on [linkedin](https://www.linkedin.com/in/sergei-sukhorukov-192697233/).  
 💡 Don't forget to check out my [course](https://www.learnloadtesting.ru/) about performance testing.
