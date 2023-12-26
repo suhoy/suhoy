@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🐘 I explore how well applications perform under high load.  
-🕑 I also develop `java` utilities to make testing easier and less boring.  
+🕑 I also develop `java` and `python` utilities to make testing easier and less boring.  
 📫 You can reach me out on [linkedin](https://www.linkedin.com/in/sergei-sukhorukov-192697233/).  
 
 <!--
